@@ -3,7 +3,7 @@
 
 Before you begin, make sure you have the following packages installed on your machine:
 
-1. Node.js (v17 or later)
+1. Node.js 
 2. yarn / npm (Node Package Manager)
 
 Install with npm
